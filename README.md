@@ -1,3 +1,5 @@
+See the [site](https://hfu.github.io/likebtn-test).
+
 <span class="likebtn-wrapper" data-ef_voting="grow" data-identifier="item_1" data-dislike_enabled="false"></span>
 <span class="likebtn-wrapper" data-ef_voting="grow" data-identifier="item_2" data-dislike_enabled="false"></span>
 <span class="likebtn-wrapper" data-ef_voting="grow" data-identifier="item_3" data-dislike_enabled="false"></span>
